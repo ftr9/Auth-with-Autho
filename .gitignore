@@ -1,0 +1,3 @@
+/config/Auth.config.ts
+/config/secret.env
+node_modules
